@@ -16,6 +16,19 @@ This project was completed as part of the Primetrade.ai Data Science Intern Roun
 - Identify different trader segments.
 - Generate actionable trading recommendations.
 
+## Project Screenshots
+
+### Long vs Short Trades
+
+![Long vs Short](Screenshot%20(28).png)
+
+### Average Profit/Loss
+
+![Average Profit](Screenshot%20(29).png)
+
+### Total Trades
+
+![Total Trades](Screenshot%20(30).png)
 ---
 
 # Datasets

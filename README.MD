@@ -124,8 +124,6 @@ Trader-Performance-vs-Market-Sentiment/
 ├── Trader_Performance_Analysis.ipynb
 ├── README.md
 ├── requirements.txt
-├── historical_data.csv
-├── fear_greed_index.csv
 └── images/
 ```
 

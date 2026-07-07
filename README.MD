@@ -24,6 +24,11 @@ This project was completed as part of the Primetrade.ai Data Science Intern Roun
 - Date
 - Classification (Fear, Greed, Extreme Fear, Extreme Greed, Neutral)
 
+## Dataset
+The datasets used in this project were provided as part of the Primetrade.ai Round-0 assignment.
+Due to file size constraints and repository size optimization, the datasets are not included in this repository.
+Please use the original assignment datasets to run the notebook.
+
 ### 2. Hyperliquid Historical Trader Data
 - Account
 - Symbol
